@@ -10,11 +10,10 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I'm Arav, I'm a 13 year old Indie Hacker, Founder, and 5x Failed Product
+      Founder. I share Insights on building communities, writing, and
+      makersrocket.com. 
     actions:
       - label: Contact Me
         url: /contact
