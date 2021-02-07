@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''''m Arav!'
-    content: |+
-      I'm a 13 year old, Indie Hacker and Founder. 
-
+    content: |
+      13 year old, Indie Hacker
   - section_id: about
     type: section_content
     title: About
