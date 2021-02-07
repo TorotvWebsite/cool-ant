@@ -1,5 +1,5 @@
 ---
-title: Fragments of Iceland
+title: What I've Learned from Building 5 Failed Products at the age of 13
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
